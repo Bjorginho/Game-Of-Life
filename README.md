@@ -5,7 +5,7 @@ This is my Haskell implementation of Game Of Life.
 
 You need [GHCI (download)](https://www.haskell.org/downloads/) to play. 
 
-## How t play
+## How to play
 Go to map location in terminal, open ghci -> load Oblig2.hs
 
 Type **main** to start Game Of Life. 
